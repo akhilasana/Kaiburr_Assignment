@@ -61,19 +61,24 @@ Expected output: A label from {0, 1, 2, 3}.
 
 ### 1. Hyperparameter Tuning
 The image shows the results of hyperparameter tuning for a Logistic Regression model.  
-C:\Users\Sai Rishisri\Downloads\prediction.jpg
+![Hyperparameter Tuning](https://raw.githubusercontent.com/akhilasana/Kaiburr_Assignment/main/Task%205%20-%20Data%20Science/images/hyperparameter_tuning.jpg)
 
 ### 2. Confusion Matrix (Logistic Regression)
 The confusion matrix for Logistic Regression shows correct predictions along the diagonal.  
-![Confusion Matrix - Logistic Regression](images/confusion_matrix_logistic.png)
+![Confusion Matrix (Logistic Regression)](https://raw.githubusercontent.com/akhilasana/Kaiburr_Assignment/main/Task%205%20-%20Data%20Science/images/confusion_matrix_logistic.png)
 
 ### 3. Confusion Matrix (Random Forest)
 The confusion matrix for Random Forest shows better classification performance.  
-![Confusion Matrix - Random Forest](images/confusion_matrix_rf.png)
+![Confusion Matrix (Random Forest)](https://raw.githubusercontent.com/akhilasana/Kaiburr_Assignment/main/Task%205%20-%20Data%20Science/images/confusion_matrix_rf.png)
 
 ### 4. Top 20 Features (Random Forest)
 The bar chart shows the most important features in a Random Forest model.  
-![Top 20 Features - Random Forest](images/top_20_features_rf.png)
+![Top 20 Features (Random Forest)](https://raw.githubusercontent.com/akhilasana/Kaiburr_Assignment/main/Task%205%20-%20Data%20Science/images/top_20_features_rf.png)
+
+### 5. Model Predictions
+The image shows predictions from Random Forest and Logistic Regression models.  
+![Model Predictions](https://raw.githubusercontent.com/akhilasana/Kaiburr_Assignment/main/Task%205%20-%20Data%20Science/images/model_predictions.png)
+
 
 ### 5. Model Predictions
 The image shows predictions from Random Forest and Logistic Regression models.  
