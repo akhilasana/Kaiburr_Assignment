@@ -27,10 +27,10 @@ Tasks are stored in **MongoDB**, and each task has:
 ---
 
 ## **3. Usage Examples**
-## **Create/Update a Task (PUT):**
-curl -X PUT "http://localhost:8080/tasks" \
-     -H "Content-Type: application/json" \
-     -d '{
+## **Create/Update a Task (PUT):**.
+curl -X PUT "http://localhost:8080/tasks" \.
+     -H "Content-Type: application/json" \.
+     -d '{.
        "id": "123",
        "name": "Print Hello",
        "owner": "John Smith",
@@ -43,7 +43,7 @@ Response:
 ---
 
 ## **Get All Tasks (GET):** 
-curl -X GET "http://localhost:8080/tasks"
+curl -X GET "http://localhost:8080/tasks".
 Response:
 
 ![Response of a GET Task](https://github.com/user-attachments/assets/d6c08a97-42d9-4837-a446-f46d5758c060)
@@ -51,7 +51,7 @@ Response:
 ---
 
 ## **Delete a Task (DELETE):**
-curl -X PUT "http://localhost:8080/tasks/123/execute"
+curl -X PUT "http://localhost:8080/tasks/123/execute".
 Response (Example):
 
 
