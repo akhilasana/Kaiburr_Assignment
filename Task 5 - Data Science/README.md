@@ -63,6 +63,8 @@ Expected output: A label from {0, 1, 2, 3}.
 The image shows the results of hyperparameter tuning for a Logistic Regression model.  
 ![Hyperparameter Tuning](images/hyperparameter_tuning.png)
 
+![](https://github.com/user-attachments/assets/f257572d-ad2f-45c6-9554-35830836a070)
+
 ### 2. Confusion Matrix (Logistic Regression)
 The confusion matrix for Logistic Regression shows correct predictions along the diagonal.  
 ![Confusion Matrix - Logistic Regression](images/confusion_matrix_logistic.png)
