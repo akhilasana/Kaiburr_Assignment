@@ -76,8 +76,11 @@ The confusion matrix for Random Forest shows better classification performance.
 
 ### 4. Top 20 Features (Random Forest)
 The bar chart shows the most important features in a Random Forest model.
-![Top 20 Features (Random Forest)](images/top_20_features_rf.png)
+![Image showing top 20 features](https://github.com/user-attachments/assets/96d76b89-5bc4-4aff-846d-1cad75684310)
+
+
 
 ### 5. Model Predictions
 The image shows predictions from Random Forest and Logistic Regression models.
-![Model Predictions](images/model_predictions.png)
+![Model Predictions](https://github.com/user-attachments/assets/7212a749-9295-4b73-9d54-d548382ff0f4)
+
