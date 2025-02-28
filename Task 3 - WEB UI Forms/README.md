@@ -22,7 +22,11 @@ This **React** project provides a **Web UI** for the **Task Manager** applicatio
 **DELETE /api/tasks/:id** → Delete task
 **PUT /api/tasks/:id/execute** → Run command
 
-## **3. Screenshots**
+## **3. How to Run**
+1. npm start in Terminal.
+2. Open http://localhost:3000 in browser.
+
+## **4. Screenshots**
 
 ![Home UI](https://github.com/user-attachments/assets/a085db2a-f147-4bd1-a4ce-a5543686286c)
 The above image show the Frondend of the Web form. 
