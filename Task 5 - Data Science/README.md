@@ -34,7 +34,7 @@ Use predict.py (or a notebook) to classify new complaints:
 Command: python predict.py --text "My mortgage was unfairly processed"
 Expected output: A label from {0, 1, 2, 3}.
 
-## 🛠️ Steps
+## 🛠️ 5. Steps
 
 1️⃣ **Exploratory Data Analysis (EDA)**
  1. Check dataset size, distribution of categories.
@@ -61,11 +61,13 @@ Expected output: A label from {0, 1, 2, 3}.
 
 ### 1. Hyperparameter Tuning
 The image shows the results of hyperparameter tuning for a Logistic Regression model.
-![Hyperparameter Tuning](images/hyperparameter_tuning.png)
+![Hyperparametric Tuning](https://github.com/user-attachments/assets/e9322bb5-4128-49fc-af53-54b788d44647)
+
 
 ### 2. Confusion Matrix (Logistic Regression)
 The confusion matrix for Logistic Regression shows correct predictions along the diagonal.
-![Confusion Matrix (Logistic Regression)](images/confusion_matrix_logistic.png)
+![Confusion Matrix of Logistic Regression](https://github.com/user-attachments/assets/df261c0e-2bfe-40d5-befe-0c7fa10da5b2)
+
 
 ### 3. Confusion Matrix (Random Forest)
 The confusion matrix for Random Forest shows better classification performance.
