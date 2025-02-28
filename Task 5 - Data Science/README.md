@@ -69,7 +69,8 @@ The confusion matrix for Logistic Regression shows correct predictions along the
 
 ### 3. Confusion Matrix (Random Forest)
 The confusion matrix for Random Forest shows better classification performance.
-![Confusion Matrix (Random Forest)](images/confusion_matrix_rf.png)
+![Confusion Matrix of Random Forest](https://github.com/user-attachments/assets/8b0345d9-b28b-41de-ad2a-b0beece143d8)
+
 
 ### 4. Top 20 Features (Random Forest)
 The bar chart shows the most important features in a Random Forest model.
