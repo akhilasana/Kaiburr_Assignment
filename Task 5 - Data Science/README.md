@@ -57,23 +57,24 @@ Expected output: A label from {0, 1, 2, 3}.
 1. Preprocess new complaint text.
 2. Predict the category (0–3).
 
-6. Screenshots
-1. Hyperparameter Tuning
-The image shows the results of hyperparameter tuning for a Logistic Regression model.
-(https://github.com/user-attachments/assets/eee9f377-4071-4694-8ffb-39a3f10f228d)
+## Screenshots
 
-2. Confusion Matrix (Logistic Regression)
-The confusion matrix for Logistic Regression shows correct predictions along the diagonal.
-(https://github.com/user-attachments/assets/ff198192-65a9-4477-bf42-268088ca7459)
+### 1. Hyperparameter Tuning
+The image shows the results of hyperparameter tuning for a Logistic Regression model.  
+![Hyperparameter Tuning](images/hyperparameter_tuning.png)
 
-3. Confusion Matrix (Random Forest)
-The confusion matrix for Random Forest shows better classification performance.
-(https://github.com/user-attachments/assets/5f408bd1-1b66-48b0-a674-f9d6033ae915)
+### 2. Confusion Matrix (Logistic Regression)
+The confusion matrix for Logistic Regression shows correct predictions along the diagonal.  
+![Confusion Matrix - Logistic Regression](images/confusion_matrix_logistic.png)
 
-4. Top 20 Features (Random Forest)
-The bar chart shows the most important features in a Random Forest model.
-(https://github.com/user-attachments/assets/af82a256-7212-4281-bf2c-d070604c2896)
+### 3. Confusion Matrix (Random Forest)
+The confusion matrix for Random Forest shows better classification performance.  
+![Confusion Matrix - Random Forest](images/confusion_matrix_rf.png)
 
-5. Model Predictions
-The image shows predictions from Random Forest and Logistic Regression models.
-(https://github.com/user-attachments/assets/c9534d7d-62a4-463b-a3b6-3f7a4c58261b)
+### 4. Top 20 Features (Random Forest)
+The bar chart shows the most important features in a Random Forest model.  
+![Top 20 Features - Random Forest](images/top_20_features_rf.png)
+
+### 5. Model Predictions
+The image shows predictions from Random Forest and Logistic Regression models.  
+![Model Predictions](images/model_predictions.png)
