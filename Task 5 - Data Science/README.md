@@ -10,17 +10,17 @@ This project **classifies consumer complaints** into the following categories us
 
 ## 🚀 Setup Instructions
 
-### ** Prerequisites**
+### **1. Prerequisites**
 - Install **Python 3.9+**
 - Install required libraries:
-```sh
+
 pip install pandas numpy scikit-learn nltk
 
-2. DataSet Description
+### **2. DataSet Description**
 1. Download consumer_complaints.csv from the link https://catalog.data.gov/dataset/consumer-complaint-database
 2. Ensure it has Complaint ID, Consumer complaint narrative, and Product columns.
 
-3. Run the Model Training 
+### **3. Run the Model Training**
 Use the script python kaibur.py to:
 1. Load and preprocess data (tokenization, stopword removal, etc.).
 2. Train a multi-class classification model.
@@ -28,7 +28,7 @@ Use the script python kaibur.py to:
 
 Command : python kaibur.py
 
-4. Make Predictions
+### **4. Make Predictions**
 Use predict.py (or a notebook) to classify new complaints:
 
 Command: python predict.py --text "My mortgage was unfairly processed"
@@ -57,7 +57,7 @@ Expected output: A label from {0, 1, 2, 3}.
 1. Preprocess new complaint text.
 2. Predict the category (0–3).
 
-6. Screenshots
+### **6. Screenshots**
 
 ### 1. Hyperparameter Tuning
 The image shows the results of hyperparameter tuning for a Logistic Regression model.
