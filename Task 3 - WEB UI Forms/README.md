@@ -8,7 +8,7 @@ This **React** project provides a **Web UI** for the **Task Manager** applicatio
 
 1. **Node.js** (v16 or higher recommended)
 2. **npm** (comes with Node.js)
-3. **Backend API** (Spring Boot + MongoDB) running at `http://localhost:8080/api/tasks` (or your chosen port).
+3. **Backend API** (Spring Boot + MongoDB) running at `http://localhost:8080/api/tasks`.
 
 ---
 
@@ -26,9 +26,9 @@ This **React** project provides a **Web UI** for the **Task Manager** applicatio
 
 ![Home UI](https://github.com/user-attachments/assets/a085db2a-f147-4bd1-a4ce-a5543686286c)
 The above image show the Frondend of the Web form. 
----
+
 ![After a TASK is ADDED](https://github.com/user-attachments/assets/ee663b6e-3766-4e4a-9e5f-9d77e29cdf01)
 The above image is after adding a task
----
+##**---**
 ![Deleted a Task](https://github.com/user-attachments/assets/d970780f-84b3-44c8-a204-38afc60fecc9)
 The image is after removing a task
