@@ -53,6 +53,7 @@ Response:
 ## **Delete a Task (DELETE):**
 curl -X PUT "http://localhost:8080/tasks/123/execute".
 Response (Example):
+![Response after deleting a task.](https://github.com/user-attachments/assets/58daf283-b4ba-40b7-bdc4-718c6bc82b73)
 
 
 ## **Showing all tasks in local host:**
